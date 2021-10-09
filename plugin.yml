@@ -1,0 +1,25 @@
+name: InsaneAC
+main: fr.whiizyyy.insaneac.InsaneAC
+version: 2.1
+author: Whiizyyy
+commands:
+  anticheat:
+    aliases: [insaneac, iac, ac, insaneanticheat]
+  cb:
+    aliases: [checkban, insaneban]
+  alerts:
+    aliases: [alert]
+  logs:
+    aliases: [log]
+  cps:
+    aliases: [click, averagecps]
+  tps:
+    aliases: [actps, anticheattps]
+  crash:
+    aliases: [crasher, crashing]
+  ping:
+    aliases: [acping, anticheatping]
+  playerinfo:
+    aliases: [pi, pinfo, pinfos, playerinfos]
+  serverinfo:
+    aliases: [si, sinfo, sinfos, serverinfos]
